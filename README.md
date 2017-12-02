@@ -8,13 +8,13 @@ In Webstorm die Preferences einstellen unter: Languages & Frameworks, Javascript
 <br>
 <br>
 Projekt ordner struktur:<br>
-  noteserver (haupt order)<br>
-    - controllers , der kontoller file die von express server benützt wird<br>
-    - data , die daten / Db von der applikation<br>
-    - node_modules, erstellt mit npm install<br>
-    - public, code an der Client seite services,html images, js, model und css code<br>
-    - routes, routing auf der express server seite<br>
-    - services, den speichern, holen updaten von daten auf der server seite<br>
-    - views, error pages die auf der server seite liegen<br>
-    - package.json<br>
-    - server.js, die konfiguration file für express js server<br>
+  -noteserver (haupt order)<br>
+     - controllers , der kontoller file die von express server benützt wird<br>
+     - data , die daten / Db von der applikation<br>
+     - node_modules, erstellt mit npm install<br>
+     - public, code an der Client seite services,html images, js, model und css code<br>
+     - routes, routing auf der express server seite<br>
+     - services, den speichern, holen updaten von daten auf der server seite<br>
+     - views, error pages die auf der server seite liegen<br>
+     - package.json<br>
+     - server.js, die konfiguration file für express js server<br>
